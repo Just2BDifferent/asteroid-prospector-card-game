@@ -32,5 +32,23 @@ The first person to name the planets in order, starting from the sun to the furt
 ```
 
 ###First Turn
-Each player begins their first turn in Earth's Orbit with a limited supply of Fuel and Energy. 
+Each player begins their first turn in Earth's Orbit with a limited supply of Fuel and Energy, and must last land on an Asteroid before they can collect materials.
+
+###Turn Actions
+Players can choose one of the actions on their turn:
+  1. Discover, travel to and land on a new asteroid
+  2. Extend their solar panels to collect energy from the sun's rays
+  3. Mine the asteroid for materials
+  4. Convert water into fuel*
+  5. Repair damage*
+
+\* Requires materials
+
+#### Discover, travel to and land on a new asteroid
+Roll the dice and consult the dice chart for the die type you are using.
+
+**Take Damage:** You are struck by a piece of floating space debris which damages your equipment; it might be repairable, but you need to land immediately.  Take the top card from the discard pile and immediately land there. You do not need to use your fuel to get to this asteroid. If there are no cards in the discard pile, take the bottom card from the asteroid deck instead. See **_Taking Damage_** for additional instructions.
+
+**Draw 1:** Your equipment shows you there is a new asteroid in the vicinity. If you have the fuel to get to the asteroid, you may spend your fuel tokens to travel their and land. If you do so, turn over your current asteroid card and put the new card in front of you.  If you do not have the fuel, or do not wish to travel to that asteroid, you may place that asteroid on the discard pile; keep your current asteroid card face-up in front of you, if any.
+
 
