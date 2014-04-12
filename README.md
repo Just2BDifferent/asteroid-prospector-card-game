@@ -21,7 +21,7 @@ Asteroid Prospector: The Card Game
 - 1 Dice Reference Chart
 
 ###Setup
-Give each player 2 Fuel tokens and 3 Energy tokens
+Give each player 2 Fuel tokens and 3 Energy tokens.
 
 ###Determining First Player
 The first person to name the planets in order, starting from the sun to the furthest in our solar system, get's to go first. Play then goes clockwise from that player.
@@ -30,4 +30,7 @@ The first person to name the planets in order, starting from the sun to the furt
   
   In the case of a tie, you can use a Space-Trivia tie breaker. [We'll include a few in 'Tie Breakers' for your reference]
 ```
+
+###First Turn
+Each player begins their first turn in Earth's Orbit with a limited supply of Fuel and Energy. 
 
