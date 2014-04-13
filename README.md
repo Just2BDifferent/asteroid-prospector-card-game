@@ -23,6 +23,9 @@ Asteroid Prospector: The Card Game
 ###Setup
 Give each player 2 Fuel tokens and 3 Energy tokens.
 
+###Goal
+Be the first player to gather 6 Platinum tokens, or travel 60,000 KM [by adding the distances of all asteroids in front of a player].
+
 ###Determining First Player
 The first person to name the planets in order, starting from the sun to the furthest in our solar system, get's to go first. Play then goes clockwise from that player.
 ```
