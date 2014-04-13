@@ -52,3 +52,38 @@ Roll the dice and consult the dice chart for the die type you are using.
 **Draw 1:** Your equipment shows you there is a new asteroid in the vicinity. If you have the fuel to get to the asteroid, you may spend your fuel tokens to travel their and land. If you do so, turn over your current asteroid card and put the new card in front of you.  If you do not have the fuel, or do not wish to travel to that asteroid, you may place that asteroid on the discard pile; keep your current asteroid card face-up in front of you, if any.
 
 
+###Tie Breakers
+```
+Question: How do you greet a two-headed alien?
+Answer: Hello, Hello
+```
+
+```
+Question: Where do martians leave their spaceships when shopping?
+Answer: A parking meteor
+```
+
+```
+Question: Who was the first man in space?
+Answer: The man in the moon
+```
+
+```
+Question: Why is the moon like a dollar?
+Answer: It has four quarters
+```
+
+```
+Question: What did the aliens cook for lunch?
+Answer: Unidentified frying objects
+```
+
+```
+Question: What does an astronaught do when gets dirty?
+Answer: He takes an asteroid shower
+```
+
+```
+Question: How does the galaxy keep its pants up?
+Answer: It uses its asteroid belt
+```
