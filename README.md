@@ -51,8 +51,23 @@ Roll the dice and consult the dice chart for the die type you are using.
 
 **Draw 1:** Your equipment shows you there is a new asteroid in the vicinity. If you have the fuel to get to the asteroid, you may spend your fuel tokens to travel their and land. If you do so, turn over your current asteroid card and put the new card in front of you.  If you do not have the fuel, or do not wish to travel to that asteroid, you may place that asteroid on the discard pile; keep your current asteroid card face-up in front of you, if any.
 
+**Draw 2:** Your equipment shows you there are two asteroids in your vicinity.  If you have the fuel to get to either asteroid, you may spend your fuel tokens to travel to either of them and land.  If you do so, turn over your current asteroid card and place the selected asteroid in front of you; put the other asteroid card on the discard pile.  If you do not have the fuel, or do not wish to travel to either asteroid, you may place both asteroids on the discard pile; keep your current asteroid card face-up in front of you, if any.
 
-###Tie Breakers
+**Draw 3:** Your equipment shows you there are three asteroids in your vicinity.  If you have the fuel to get to any one of those asteroids, you may spend your fuel tokens to travel to one of those asteroids and land.  If you do so, turn over your current asteroid card and place the selected asteroid in front of you; put the other asteroid cards on the discard pile.  If you do not have the fuel, or do not wish to travel to these asteroids, you may place these asteroids on the discard pile; keep your current asteroid card face-up in front of you, if any.
+
+#####Mine Asteroids
+Roll the dice and consult the dice chart for the die type you are using. You may only mine an asteroid that you are currently on (face-up in front of you).
+
+**Take Damage:**
+
+**Draw 1:**
+
+**Draw 2:**
+
+**Draw 3:**
+
+
+####Tie Breakers
 ```
 Question: How do you greet a two-headed alien?
 Answer: Hello, Hello
