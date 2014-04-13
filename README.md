@@ -91,6 +91,8 @@ If you have no damage yet, take the light damage token and place it in front of 
 If you only have light damage, take the medium damage token and place it in front of you.
 If you have light and medium damage, take the heavy damage token in front of you. Discard all of your Metal, Organics, Energy and 2 Platinum tokens if you have them. Turn over your damage tokens.  For the next 3 turns, you may *only* discard one of your damage tokens.
 
+####Out of Fuel
+If you find yourself out of fuel, you can abandon the asteroid you are currently on by turning it over, and then proceed to the **Discover, travel to and land on a new asteroid** rules.  After discovering an asteroid, you can fly there without paying for the fuel - but for each fuel required to travel that distance, you will lose a turn.  On your next available turn, you take 1 damage.  See **Taking Damage** for additional information.
 
 ####Tie Breakers
 
