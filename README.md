@@ -7,12 +7,12 @@ Asteroid Prospector: The Card Game
 
   1. At least 1 set of Asteroid cards (12 cards per person)
   2. The following Tokens: 
-    1. 10 Energy Tokens
+    1. 6 Energy Tokens
     2. 6 Fuel Tokens
-    3. 12 Water Tokens
-    4. 10 Platinum Tokens
-    5. 10 Organics Tokens
-    6. 12 Metals Tokens
+    3. 6 Water Tokens
+    4. 6 Platinum Tokens
+    5. 6 Organics Tokens
+    6. 6 Metals Tokens
     5. 1 Light Damage
     6. 1 Medium Damage
     7. 1 Heavy Damage
